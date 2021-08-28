@@ -1,5 +1,4 @@
 ## Heyyo, I'm <a href="https://assistants.ga" target="_blank">breftejk</a>! 👋 
-(Use dark theme to find my socials ;)
 
 <a href="https://assistants.ga" target="_blank"><img align="left" alt="assistants.ga" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://twitter.com/assistantsga" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
