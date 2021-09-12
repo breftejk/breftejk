@@ -1,9 +1,5 @@
 ## Heyyo, I'm <a href="#" target="_blank">breftejk</a>! 👋 
 
-<div align="center">
-    <a href="https://discord.com/users/778685361014046780" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/778685361014046780"></a>
-</div>
-
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.w3schools.com/nodejs/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
