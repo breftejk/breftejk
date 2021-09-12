@@ -7,7 +7,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/breftejk" />
+<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 <br />
 
 <br />
