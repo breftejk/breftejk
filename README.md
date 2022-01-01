@@ -22,7 +22,7 @@ We are a company committed to developing OpenSource projects for communities and
 
 # Contact Us
 
-E-mail: assistants.center@gmail.com, assistants.center.webmaster@gmail.com
+E-mail: contact@assistants.ga, support@assistants.ga, billing@assistants.ga, assistants.center@gmail.com, assistants.center.webmaster@gmail.com
 
 Discord Server: https://discord.gg/Nkc8MWxHRD
 
