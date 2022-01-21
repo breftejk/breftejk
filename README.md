@@ -28,4 +28,4 @@ Discord Server: https://discord.gg/Nkc8MWxHRD
 
 Twitter: https://twitter.com/assistantsga
 
-© 2021 Assistants Center, all rights reserved. Made with ❤️ for you.
+© 2022 Assistants Center, all rights reserved. Made with ❤️ for you.
