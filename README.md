@@ -1,6 +1,6 @@
-![Assistants Center](https://cdn.assistants.ga/kxkwe7xd)
+![Assistants Center](https://cdn.assistantscenter.com/kxkwe7xd)
 
-Hello, there! We're [Assistants Center](https://assistants.ga/)! 😎
+Hello, there! We're [Assistants Center](https://assistantscenter.com/)! 😎
 
 # About Us
 
