@@ -5,7 +5,6 @@
 <ul>
   <li>🔥 17 years old</li>
   <li>💻 High school student with ambitious plans for an IT-related future</li>
-  <li>🚀 Planning to study computer science at the University of Warsaw or the Jagiellonian University (Krakow)</li>
 </ul>
 
 <h4>Programming languages</h4>
