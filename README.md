@@ -14,7 +14,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
     </a> 
-     <b>Advenced level</b> (Node.js, NestJS, Express, Fastify, React, React Native, Next.js, Canvas, Discord.js)
+     <b>Advenced level</b> (Node.js, NestJS, Express, Fastify, Angular, React, React Native, Next.js, Canvas, Discord.js)
   <li>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> 
