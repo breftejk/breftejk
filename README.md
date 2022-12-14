@@ -18,15 +18,10 @@
   <li>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
     </a>
       <b>Intermediate level</b>
   </li>
-  <li>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
-      </a>
-     <b>Beginner level</b>
-  </p>
 </ul>
 
 <br/>
