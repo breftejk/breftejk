@@ -3,8 +3,8 @@
 <h4>About me</h4>
 
 <ul>
-  <li>🔥 17 years old</li>
-  <li>💻 High school student with ambitious plans for an IT-related future</li>
+  <li>🔥 18 years old</li>
+  <li>💻 Computer Science student at WSB Merito University in Warsaw, Poland</li>
 </ul>
 
 <h4>Programming languages</h4>
