@@ -4,7 +4,7 @@
 
 <ul>
   <li>🔥 18 years old</li>
-  <li>💻 Computer Science student in Warsaw, Poland</li>
+  <li>💻 Computer Science student (soon TM lmfao)</li>
 </ul>
 
 <h4>Programming languages</h4>
