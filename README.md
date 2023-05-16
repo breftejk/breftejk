@@ -1,4 +1,4 @@
-## Hi 👋, I'm breftejk</h3>
+## Hi 👋, I'm Marcin</h3>
 
 <h4>About me</h4>
 
