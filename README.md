@@ -14,7 +14,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
     </a> 
-     <b>Advanced level</b> (Node.js, TypeScript, React, Angular, Next.js, Express, Fastify)
+     <b>Advanced level</b> (Node.js, TypeScript, React [Next.js <3])
   </li>
     <li>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
