@@ -1,34 +1,24 @@
-## Hi 👋, I'm Marcin</h3>
+# Welcome to My GitHub Profile! 👋
 
-<h4>About me</h4>
+👨‍💻 My name is Marcin, and I am an 18-year-old programming enthusiast currently studying Computer Science at the Bialystok University of Technology.
 
-<ul>
-  <li>🔥 18 years old</li>
-  <li>💻 Computer Science student (Bialystok University of Technology)</li>
-</ul>
+### My Passion:
 
-<h4>Programming languages</h4>
+- Programming is not just a career for me, it's a passion. I have a particular fondness for developing web applications. My specialty lies in working with Next.js and TypeScript, leveraging the versatility and power of React to create innovative full-stack solutions.
 
-<ul>
-  <li>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
-    </a> 
-     <b>Advanced level</b> (Node.js, TypeScript, React [Next.js <3])
-  </li>
-    <li>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> 
-    </a>
-     <b>Advanced level</b>
-  </li>
-  <li>
-    <a href="#" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
-    </a>
-      <b>Intermediate level</b>
-  </li>
-</ul>
+### My Experience:
+
+- I actively use Amazon Web Services for my projects, which has given me valuable insights into cloud computing and its integration with modern web technologies.
+
+### Leadership and Community Involvement:
+
+- At the Bialystok University of Technology, I'm not just a student. I lead the Software Engineering Scientific Circle, where I collaborate with peers to explore new ideas and technologies in software development.
+- My commitment to the student community extends to my participation in the student government. I'm a member of the faculty's student council and involved in university-wide committees focusing on education quality and project management.
+
+### Looking Ahead:
+
+I'm always eager to learn more and take on challenging projects. I believe in the power of teamwork and am excited about contributing to and leading projects that push the boundaries of technology and innovation.
+Feel free to connect with me or check out my projects!
 
 <br/>
 
