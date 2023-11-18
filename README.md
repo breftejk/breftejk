@@ -4,15 +4,17 @@
 
 ### My Passion:
 
-- Programming is not just a career for me, it's a passion. I have a particular fondness for developing web applications. My specialty lies in working with Next.js and TypeScript, leveraging the versatility and power of React to create innovative full-stack solutions.
+Programming is not just a career for me, it's a passion. I have a particular fondness for developing web applications. My specialty lies in working with Next.js and TypeScript, leveraging the versatility and power of React to create innovative full-stack solutions.
 
 ### My Experience:
 
-- I actively use Amazon Web Services for my projects, which has given me valuable insights into cloud computing and its integration with modern web technologies.
+I actively use Amazon Web Services for my projects, which has given me valuable insights into cloud computing and its integration with modern web technologies.
 
 ### Leadership and Community Involvement:
 
-- At the Bialystok University of Technology, I'm not just a student. I lead the Software Engineering Scientific Circle, where I collaborate with peers to explore new ideas and technologies in software development.
+At the Bialystok University of Technology, I'm not just a student. 
+
+- I lead the Software Engineering Scientific Circle, where I collaborate with peers to explore new ideas and technologies in software development.
 - My commitment to the student community extends to my participation in the student government. I'm a member of the faculty's student council and involved in university-wide committees focusing on education quality and project management.
 
 ### Looking Ahead:
