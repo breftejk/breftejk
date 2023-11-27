@@ -21,7 +21,3 @@ At the Bialystok University of Technology, I'm not just a student.
 
 I'm always eager to learn more and take on challenging projects. I believe in the power of teamwork and am excited about contributing to and leading projects that push the boundaries of technology and innovation.
 Feel free to connect with me or check out my projects!
-
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=breftejk&show_icons=true&locale=en&count_private=true&hide=stars&theme=github_dark" alt="breftejk" /></p>
