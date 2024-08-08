@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-👨‍💻 My name is Marcin, and I am an 18-year-old programming enthusiast currently studying Computer Science at the Bialystok University of Technology.
+👨‍💻 My name is Marcin, and I am an 19-year-old programming enthusiast currently studying Computer Science at the Bialystok University of Technology.
 
 ### 🤩 My Passion
 
