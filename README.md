@@ -1,9 +1,11 @@
-# Welcome to My GitHub Profile! 👋
+# Hey there! I’m Marcin 👋
 
-Hello, I'm **Marcin** – a 19-year-old programming enthusiast with a passion for turning ideas into code. I'm currently pursuing Computer Science at Bialystok University of Technology, where I dive into challenging projects and explore innovative solutions.
+20-year-old CS student at Białystok University of Technology, constantly exploring the edge where code meets creativity.
 
-I love experimenting with new technologies, building projects from scratch, and continuously learning in the ever-evolving world of software development. When I'm not coding, you might find me tinkering with electronics, exploring the latest tech trends, or brainstorming my next big idea over a good cup of ~~coffee~~ tea 😉
+- 🤖 **AI & ML addict:** From neural nets to computer vision, I love teaching machines to see and think.
+- 🍏 **Swift evangelist:** Building seamless iOS experiences with SwiftUI, CoreML, and all things Apple.
+- 🔧 **Backend & microservices geek:** Designing scalable APIs, Dockerized services, and event-driven architectures.
+- 🛠️ **Polyglot tinkerer:** Node.js, C#, Swift, Python — you name it, I’ll spin up a prototype.
+- ☕ **Fuel preference:** Tea-powered late-night coding sessions.
 
-Feel free to browse my repositories, check out my projects, and reach out if you'd like to collaborate or just chat about technology. Let's create something amazing together!
-
-Happy coding! 🚀
+Always up for a tech deep-dive or brainstorming next-gen solutions—let’s connect and build something epic! 😎  
