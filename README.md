@@ -10,11 +10,11 @@
 - ☕ **Fuel preference:** Tea-powered late-night coding sessions.  
 
 ## Personal Projects
-- **[breftejk](https://github.com/yourusername/Breftejk)** – Personal playground for learning, experimenting, and shipping apps.  
+- **[breftejk](https://github.com/breftejk/repositories)** – Personal playground for learning, experimenting, and shipping apps.  
 
 ## Collaborative Projects
-- **[Assistants-Technologies](https://github.com/yourusername/Assistants-Technologies)** – Team project building AI-driven tools and solutions.  
-- **[Discord-Dashboard](https://github.com/yourusername/Discord-Dashboard)** – Dashboard and API project developed collaboratively to showcase scalable solutions.  
+- **[Assistants-Technologies](https://github.com/Assistants-Technologies/repositories)** – Team project building AI-driven tools and solutions.  
+- **[Discord-Dashboard](https://github.com/Discord-Dashboard/repositories)** – Dashboard and API project developed collaboratively to showcase scalable solutions.  
 
 ## Tech Stack & Skills
 - **Frontend:** React, Next.js, React Native  
