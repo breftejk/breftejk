@@ -10,7 +10,7 @@
 - ☕ **Fuel preference:** Tea-powered late-night coding sessions.  
 
 ## Personal Projects
-- **[breftejk]([https://github.com/breftejk?tab=repositories)** – Personal playground for learning, experimenting, and shipping apps.  
+- **[breftejk](https://github.com/breftejk?tab=repositories)** – Personal playground for learning, experimenting, and shipping apps.  
 
 ## Collaborative Projects
 - **[Assistants-Technologies](https://github.com/orgs/Assistants-Technologies/repositories)** – Team project building AI-driven tools and solutions.  
