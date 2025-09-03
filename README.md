@@ -17,7 +17,7 @@
 - **[Discord-Dashboard](https://github.com/orgs/Discord-Dashboard/repositories)** – Dashboard and API project developed collaboratively to showcase scalable solutions.  
 
 ## Tech Stack & Skills
-- **Frontend:** React, Next.js, React Native  
+- **Frontend:** React, Next.js, React Native, Swift UI
 - **Backend & APIs:** Nest.js, Fastify, Node.js  
 - **Databases:** SQL, PL/SQL, PostgreSQL, MongoDB  
 - **DevOps & Tools:** Docker  
