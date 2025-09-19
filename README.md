@@ -13,7 +13,7 @@
 - **[breftejk](https://github.com/breftejk?tab=repositories)** – Personal playground for learning, experimenting, and shipping apps.  
 
 ## Collaborative Projects
-- **[Assistants-Technologies](https://github.com/orgs/Assistants-Technologies/repositories)** – Team project building AI-driven tools and solutions.  
+- **[Acstane](https://github.com/orgs/Acstane/repositories)** – Team project building AI-driven tools and solutions.  
 - **[Discord-Dashboard](https://github.com/orgs/Discord-Dashboard/repositories)** – Dashboard and API project developed collaboratively to showcase scalable solutions.  
 
 ## Tech Stack & Skills
